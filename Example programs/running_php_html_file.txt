@@ -1,0 +1,6 @@
+Run the simpleform file with the run button
+that will start apache
+then type https://2015-mbu-programming-python-scininja.c9.io/
+go to Example programs folder
+click on simpleform.html
+proceed to form
